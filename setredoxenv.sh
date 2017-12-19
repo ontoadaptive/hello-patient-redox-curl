@@ -1,0 +1,2 @@
+REDOX_API_KEY="dbca4b2d-a7bc-4ad5-b9fb-402dd1f936d3"
+REDOX_API_SECRET="WylFujBpJgtFfgXCVucD40zdc0tw1WaaZho5rBIiVYZ7eW8w8towF1fV6xtD3o4WxGt5QzED"
