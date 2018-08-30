@@ -8,6 +8,8 @@ Although Redox tutorial begins with a UI driven approach to Redox API using API 
 
 We found hacking some quick curl with jq helped us explore the API faster and to understand what further development languages and application stacks we wanted to commit to.
 
+We also donated this examplar as a building block for Chicago Digital Health community with the [MATTER](https://matter.health/) "STAGE" program.
+
 ### Pre-requisites
 - If you have not already done so, sign up for a Redox API Developer account
 - Create a "source".
